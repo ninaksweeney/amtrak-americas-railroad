@@ -45,6 +45,12 @@ Data Sources :
   
 Climate-focused advertising targeted at young people who travel often will increase ridership and revenue for Amtrak. 
 
+Assumptions:  
+* Popular air travel routes are an opportunity to gain ridership - people are willing to switch over
+* A focus on climate change in Amtrak's messaging will resonate with some Americans
+* Young people are more likely to connect to climate-focused messaging
+* Individuals with more concern about climate change are more willing to **act** on those concerns by changing travel habits
+
 ## Current State
   
 Defining Success :  
