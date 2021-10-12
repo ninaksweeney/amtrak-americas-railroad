@@ -47,4 +47,41 @@ Climate-focused advertising targeted at young people who travel often will incre
 
 ## Current State
   
+Defining Success :  
+Increase ridership of 18-35 age bracket by 10% on chosen routes.   
+
+Status Quo :   
+* Recovering from COVID losses
+* Hoping to target young people
+* Not heavily advertising sustainable aspects of Amtrak  
   
+Unknowns :  
+* Why do people choose air? For time? Comfort? Cost? Habit?
+* What messaging will resonate best on this topic?
+* Which aspects of rail travel make it difficult for people to switch?
+
+## Future State
+
+Action :  
+Marketing will target advertising at the chosen locations, with a new focus on environmental sustainability and making responsible choices for climate. 
+
+Technical Process : 
+Model will predict what makes a person likely to turn to rail travel, and extensive EDA will help us drill down to a portion of this audience as a trial run. 
+
+Timeline :
+Advertising must be ready for holiday travel, so target audience should be chosen by late October. 
+
+## Trade-Offs  
+  
+Costs of Failure : 
+* Choosing the wrong target audience will waste money and resources
+* If prediction model is off, we could lose out on a different, valuable audience that isn't identified or represented in the data
+  
+Benefits of Success : 
+* Gaining & retaining the business of college students will provide ridership for at least their 4-year schooling
+* Normalizing rail travel among young people can help them change their travel habits permanently
+
+## Evaluation
+* Advertising to target audience should produce a 10% increase in young riders from the given routes.
+* Expect to gain ~$200 for every trip home, at least twice a year, from college students. 
+* Validate using very small target audience at first, and then expand with successes. 
