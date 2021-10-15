@@ -4,6 +4,8 @@
 
 One of Amtrak's short-term goals is to gain more young riders, and for a young population distressed by climate change, it happens to be a great low-carbon alternative to air and car travel. However, ridership and revenue remain historically low for the company, which has been severely harmed by COVID-19. Amtrak is largely dependent on government subsidies and needs a low-risk, low-cost way to appeal to new audience segments. Our hypothesis is that environmentally focused ads targeted at young, climate-conscious air travelers will increase Amtrak's ridership and revenue. 
 
+Tableau visualizations & Presentation (within tableau stories) can be viewed [here](https://public.tableau.com/app/profile/nina7004/viz/AmtrakOpportunities/AllRoutesClimate#1). 
+
 ## Design   
 Given a tight budget for advertising, we sought a small, super-targeted population with which to pilot Amtrak's climate-focused ad campaign. First, we found the most popular U.S. airline routes under 1000 miles which are also served by Amtrak within 24 hours or less. Then, using U.S. Climate Opinion data, we drilled down to routes where the populations of both destinations are likely to be receptive to climate messaging. Lastly, we found colleges along the routes where at least 5% of the freshman class would be travelling along that route to get to their home state. This led to about 40 schools with young, regular travelers who will need to go home for the holidays - hopefully using Amtrak. 
 
