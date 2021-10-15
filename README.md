@@ -9,7 +9,7 @@ Tableau visualizations & Presentation (within the Tableau Sheet 'Story1') can be
 ## Design   
 Given a tight budget for advertising, we sought a small, super-targeted population with which to pilot Amtrak's climate-focused ad campaign. First, we found the most popular U.S. airline routes under 1000 miles which are also served by Amtrak within 24 hours or less. Then, using U.S. Climate Opinion data, we drilled down to routes where the populations of both destinations are likely to be receptive to climate messaging. Lastly, we found colleges along the routes where at least 5% of the freshman class would be travelling along that route to get to their home state. This led to about 40 schools with young, regular travelers who will need to go home for the holidays - hopefully using Amtrak. 
 
-Project Scoping can be read in the Project3_Scoping.md document within this repository. This process included the development of: 
+Project Scoping can be read in the [Project3_Scoping.md](https://github.com/ninaksweeney/amtrak-americas-railroad/blob/main/Early_Deliverables/Project3_Scoping.md) document within this repository. This process included the development of: 
 - A problem statement & impact hypothesis
 - Nontechnical & technical scoping
 - Current & Future state
