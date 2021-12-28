@@ -54,7 +54,7 @@ Assumptions:
 ## Current State
   
 Defining Success :  
-Increase ridership of 18-35 age bracket by 10% on chosen routes.   
+Increase ridership of 18-35 age bracket by 5% on chosen routes.   
 
 Status Quo :   
 * Recovering from COVID losses
